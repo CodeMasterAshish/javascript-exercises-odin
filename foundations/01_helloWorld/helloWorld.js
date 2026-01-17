@@ -1,5 +1,6 @@
 const helloWorld = function() {
-  return ''
+  return "Helllo, World!";
 };
 
 module.exports = helloWorld;
+console.log(Hello World!);
