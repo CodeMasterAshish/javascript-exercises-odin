@@ -1,15 +1,10 @@
-/*
- First name: Carlos
- Last name: Stevenson
- This year: 1965
- Birth year: 1947
+const birthYear = 2003;
+const thisYear = 2026;
+const firstName = "Ashish";
+const lastName = "Jha";
 
- The greeting should read: "Hello! My name is Carlos Stevenson and I am 18 years old."
-*/
-
-// Add your code right below, good luck!
-
-
+const greeting = "Namaste! Mera Naam hai " + firstName + " "+ lastName + " or mein  " + (thisYear - birthYear) + " saal ka hu."; 
+console.log(greeting);
 
 
 
